@@ -38,6 +38,7 @@ Data Exploration:
 • BMI
 2. Visually explore these variables using histograms. Treat the missing values accordingly.
 3. There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
+
 Task 2
 Data Exploration:
 1. Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
